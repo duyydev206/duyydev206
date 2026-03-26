@@ -33,17 +33,6 @@
 - Jira
 - Postman
 
----
-
-## 📌 Featured Projects
-
-### 🛒 E-commerce Website
-- Built a full-stack e-commerce app with product listing, cart, checkout
-- Focused on clean UI and API integration  
-🔗 Repo: https://github.com/your-username/project-name
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -70,4 +59,4 @@
 
 ---
 
-⭐ From [DuyDual](https://github.com/DoDuy2004)
+⭐ From [Duy](https://github.com/duyydev206)
